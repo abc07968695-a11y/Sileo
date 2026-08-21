@@ -1,9 +1,99 @@
+Package: com.apple.DocumentsApp
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.apple.DocumentsApp_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 1000
+Section: Tweaks
+Description: 文件去横线 去除底栏
+Name: 文件精简
+
+Package: com.apple.mobilecal
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: 半生年华
+Filename: debs/com.apple.mobilecal_1.0.0-1+debug_iphoneos-arm64e.deb
+Size: 1000
+Section: Tweaks
+Description: 日历去横线
+Name: 日历精简
+
+Package: com.apple.mobilenotes
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.apple.mobilenotes_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 1000
+Section: Tweaks
+Description: 备忘录去滚动条 去横线
+Name: 备忘录精简
+
+Package: com.apple.mobileslideshow
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.apple.mobileslideshow_1.0.0-3+debug_iphoneos-arm64.deb
+Size: 1000
+Section: Tweaks
+Description: 照片去横线
+Name: 照片精简
+
+Package: com.apple.mobilesms
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: 半生年华
+Filename: debs/com.apple.mobilesms_1.0.0-2+debug_iphoneos-arm64e.deb
+Size: 1000
+Section: Tweaks
+Description: 信息去横线
+Name: 信息精简
+
+Package: com.apple.mobiletimer
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: 半生年华
+Filename: debs/com.apple.mobiletimer_1.0.0-1+debug_iphoneos-arm64e.deb
+Size: 1000
+Section: Tweaks
+Description: 时钟去横线
+Name: 时钟精简
+
+Package: com.apple.reminders
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.apple.reminders_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 1000
+Section: Tweaks
+Description: 提醒事项去横线
+Name: 提醒事项精简
+
+Package: com.ban.mydock
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.ban.mydock_iphoneos-arm64.deb
+Size: 1000
+Section: Tweaks
+Description: 简洁的键盘增强插件
+Name: MyDock
+
+Package: com.bansheng.nolinephone
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.bansheng.nolinephone_iphoneos-arm64.deb
+Size: 1000
+Section: Tweaks
+Description: 完美去系统自带的电话APP所有的横线 去除滚动条
+Name: 电话精简
+
 Package: com.kugou.kgyouth
 Version: 1.0-1+debug
 Architecture: iphoneos-arm64
-Maintainer: 我自己
+Maintainer: 半生年华
 Filename: debs/com.kugou.kgyouth_1.0-1+debug_iphoneos-arm64.deb
 Size: 1000
 Section: Tweaks
-Description: 酷狗青年版
-Name: 酷狗青年版
+Description: 酷狗概念版2.5.62精简
+Name: 酷狗概念精简
