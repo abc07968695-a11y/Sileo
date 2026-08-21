@@ -97,3 +97,13 @@ Size: 4740
 Section: Tweaks
 Description: 时钟去除横线
 Name: 时钟精简
+
+Package: com.tongtongsuo.app
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.tongtongsuo.app_1.0.0_iphoneos-arm64.deb
+Size: 6710
+Section: Tweaks
+Description: 通通锁去广告 加自动到开锁页面 并且给你开锁 达到点击软件即开锁的效果 测试版本：9.8.260710
+Name: 通通锁速开
