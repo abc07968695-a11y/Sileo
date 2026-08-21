@@ -1,5 +1,5 @@
 Package: com.apple.DocumentsApp
-Version: 1.0.0-1+debug
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
 Filename: debs/com.apple.DocumentsApp_1.0.0-1+debug_iphoneos-arm64.deb
