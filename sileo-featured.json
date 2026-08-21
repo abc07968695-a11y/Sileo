@@ -1,11 +1,11 @@
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{320, 180}",
-  "itemCornerRadius": 10,
+  "itemSize": "{296, 166}",
+  "itemCornerRadius": 12,
   "banners": [
     {
       "url": "https://abc07968695-a11y.github.io/banner.png",
-      "title": "QQ172942805",
+      "title": "qq172942805",
       "package": "",
       "hideShadow": false
     }
