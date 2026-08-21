@@ -33,7 +33,7 @@ Version: 1.0.0-3+debug
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
 Filename: debs/com.apple.mobileslideshow_1.0.0-3+debug_iphoneos-arm64.deb
-Size: 1000
+Size: 99999
 Section: Tweaks
 Description: 照片去横线
 Name: 照片精简
