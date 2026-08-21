@@ -3,7 +3,7 @@ Version: 1.0.0-1+debug
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
 Filename: debs/com.apple.DocumentsApp_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 1000
+Size: 99999
 Section: Tweaks
 Description: 文件去横线 去除底栏
 Name: 文件精简
