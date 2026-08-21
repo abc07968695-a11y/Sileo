@@ -47,3 +47,53 @@ Size: 16884
 Section: Tweaks
 Description: 酷狗概念版2.5.6精简
 Name: 酷狗概念精简
+
+Package: com.bansheng.nolinephone
+Version: 1.0.0-17+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.bansheng.nolinephone_1.0.0-17+debug_iphoneos-arm64.deb
+Size: 4640
+Section: Tweaks
+Description: 完美的去横线 同类插件没有去掉的地方也去了 去滚动条
+Name: 电话精简
+
+Package: com.ban.mydock
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.ban.mydock_1.0.0_iphoneos-arm64.deb
+Size: 5002
+Section: Tweaks
+Description: 键盘增强 自用
+Name: MyDock
+
+Package: com.apple.mobilecal
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.apple.mobilecal_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 5262
+Section: Tweaks
+Description: 日历去横线
+Name: 日历精简
+
+Package: com.apple.mobilesms
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.apple.mobilesms_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 3604
+Section: Tweaks
+Description: 短信横线去除
+Name: 短信精简
+
+Package: com.apple.mobiletimer
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.apple.mobiletimer_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 4740
+Section: Tweaks
+Description: 时钟去除横线
+Name: 时钟精简
