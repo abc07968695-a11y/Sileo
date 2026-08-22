@@ -117,3 +117,13 @@ Size: 5076
 Section: Tweaks
 Description: 快题词去开屏广告 精简首页无用功能 测试版本：5.1.3
 Name: 快题词精简
+
+Package: com.tq.weather
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.tq.weather_1.0_iphoneos-arm64.deb
+Size: 4292
+Section: Tweaks
+Description: 酷友要求做的天气去横线
+Name: 天气去横线
