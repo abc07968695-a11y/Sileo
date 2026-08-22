@@ -49,13 +49,13 @@ Description: 酷狗概念版2.5.6精简
 Name: 酷狗概念精简
 
 Package: com.bansheng.nolinephone
-Version: 1.0.0-17+debug
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.bansheng.nolinephone_1.0.0-17+debug_iphoneos-arm64.deb
-Size: 4640
+Filename: debs/com.bansheng.nolinephone_1.0.1_iphoneos-arm64.deb
+Size: 5192
 Section: Tweaks
-Description: 完美的去横线 同类插件没有去掉的地方也去了 去滚动条
+Description: 完美去电话的横线 去除滚动条 包括同款插件去不到的地方 去除个人收藏语音留言
 Name: 电话精简
 
 Package: com.ban.mydock
