@@ -19,14 +19,14 @@ Description: 备忘录去滚动条 去横线
 Name: 备忘录精简
 
 Package: com.apple.mobileslideshow
-Version: 1.0.1
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.apple.mobileslideshow_1.0.1_iphoneos-arm64.deb
-Size: 4984
+Filename: debs/com.apple.mobileslideshow_1.0.3_iphoneos-arm64.deb
+Size: 6692
 Section: Tweaks
-Description: 照片点垃圾桶就直接删除 不需要弹出确定框 把页面内的横线去除
-Name: 照片去横线
+Description: 照片点垃圾桶就直接删除 删除的照片想恢复直接点恢复 不需要弹出确定框 底栏优化 把页面内的横线去除 让你的相册更简单
+Name: 照片简洁
 
 Package: com.apple.reminders
 Version: 1.0.0-2+debug
