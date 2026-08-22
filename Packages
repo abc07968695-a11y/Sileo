@@ -123,7 +123,7 @@ Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
 Filename: debs/com.tq.weather_1.0_iphoneos-arm64.deb
-Size: 4292
+Size: 3184
 Section: Tweaks
 Description: 酷友要求做的天气去横线
 Name: 天气去横线
