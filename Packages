@@ -127,3 +127,23 @@ Size: 3184
 Section: Tweaks
 Description: 酷友要求做的天气去横线
 Name: 天气去横线
+
+Package: com.Capsula.wechat
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.Capsula.wechat_1.0.0_iphoneos-arm64.deb
+Size: 13702
+Section: Tweaks
+Description: 微信群名玻璃胶囊设置 在群聊聊天页双指长按可调出弹窗
+Name: Capsula
+
+Package: com.Hengxian.dj
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.Hengxian.dj_1.0.0_iphoneos-arm64.deb
+Size: 3552
+Section: Tweaks
+Description: 去除分享页面的所有软件横线
+Name: 去除分享横线
