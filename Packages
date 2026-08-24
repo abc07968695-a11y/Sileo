@@ -159,11 +159,11 @@ Description: 长按音量减调出snapper或者StayShot的冻结模式
 Name: SnapperVolDown
 
 Package: com.hx.wn
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.hx.wn_1.0_iphoneos-arm64.deb
-Size: 9004
+Filename: debs/com.hx.wn_1.0.1_iphoneos-arm64
+Size: 16140
 Section: Tweaks
-Description: 把日历、备忘录、天气、提醒事项、时钟、短信能看到的横线去除。源内还有电话、文件、相册精简。如果有更好的想法，qq172942805
+Description: 把日历、备忘录、天气、提醒事项、时钟、短信、电话、文件、相册能看到的横线去除。电话、文件、相册精简了页面。如果有更好的想法，qq172942805
 Name: AllInOneNoLines
