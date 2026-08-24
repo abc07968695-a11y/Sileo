@@ -147,3 +147,13 @@ Size: 3552
 Section: Tweaks
 Description: 去除分享页面的所有软件横线
 Name: 去除分享横线
+
+Package: com.stayshot.vvv
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.stayshot.vvv_1.0.0_iphoneos-arm64.deb
+Size: 3660
+Section: Tweaks
+Description: 音量减调出snapper或者StayShot的冻结模式 隐根
+Name: SnapperVolDown
