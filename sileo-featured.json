@@ -5,8 +5,8 @@
   "banners": [
     {
       "url": "https://abc07968695-a11y.github.io/banner.png",
-      "title": "qq群1106363887",
-      "package": "",
+      "title": "点击加入交流群",
+      "package": "com.bansheng.qun",
       "hideShadow": false
     }
   ]
