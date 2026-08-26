@@ -187,3 +187,13 @@ Size: 4582
 Section: Tweaks
 Description: 满血120HZ，qq172942805
 Name: MotionX
+
+Package: com.bansheng.qun
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.bansheng.qun_1.0_iphoneos-arm64.deb
+Size: 1000
+Section: Tweaks
+Description: 点击加入交流群：https://qun.qq.com/universal-share/share?ac=1&authKey=RWh38kfN8upwmJgGaqSH7Ip7XmiuN6rUj8l76mCEOM2NweKEMleo6lqM1TL%2BiCw8&busi_data=eyJncm91cENvZGUiOiIxMTA2MzYzODg3IiwidG9rZW4iOiJpbkRVek5RLytNQWNTYk9tZm1GTjJrZWlJUitnY3VnZ0dWNTZtdldyb0FVdTZjam9MRiszYWZTQ2lxMzBSTFhRIiwidWluIjoiMTcyOTQyODA1In0%3D&data=a0OqOqZA4od4VhQfVjP47-jMAJfukq7fi70KTUgXES5CLkD0jfzJ1QzfsDoAGl-ZHa5HSLpN5cvFNadums4NDg&svctype=4&tempid=h5_group_info
+Name: 加入交流群
