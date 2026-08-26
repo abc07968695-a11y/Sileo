@@ -158,12 +158,32 @@ Section: Tweaks
 Description: 长按音量减调出snapper或者StayShot的冻结模式
 Name: SnapperVolDown
 
-Package: com.hx.wn
-Version: 1.0.3
+Package: com.hx.shihua
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.hx.wn_1.0.3_iphoneos-arm64.deb
-Size: 13598
+Filename: debs/com.hx.shihua_1.0_iphoneos-arm64.deb
+Size: 3156
+Section: Tweaks
+Description: 光标丝滑。qq172942805
+Name: SilkCursor
+
+Package: com.hx.wn
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.hx.wn_1.0.5_iphoneos-arm64.deb
+Size: 11442
 Section: Tweaks
 Description: 把日历、备忘录、天气、提醒事项、时钟、短信、电话、文件、相册、Sileo能看到的横线去除。电话、文件、相册精简了页面。把全局分享的横线去除，如果有更好的想法，qq172942805
 Name: AllInOneNoLines
+
+Package: com.hx.120
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.hx.120_1.0-1+debug_iphoneos-arm64.deb
+Size: 4582
+Section: Tweaks
+Description: 满血120HZ，qq172942805
+Name: MotionX
