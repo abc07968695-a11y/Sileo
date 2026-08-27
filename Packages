@@ -198,3 +198,13 @@ Section: Tweaks
 Description: 交流群号：1106363887
 Name: 加入交流群
 SileoDepiction: https://abc07968695-a11y.github.io/Sileo/depictions/com.bansheng.qun.json
+
+Package: com.HalfLifetime.tongz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.HalfLifetime.tongz_1.0_iphoneos-arm64.deb
+Size: 4018
+Section: Tweaks
+Description: 单指双击清除通知。
+Name: 单指双击清除
