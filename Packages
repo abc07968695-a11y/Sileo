@@ -208,3 +208,23 @@ Size: 4018
 Section: Tweaks
 Description: 单指双击清除通知。
 Name: 单指双击清除
+
+Package: com.Dynamic.torch
+Version: 3.3
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.Dynamic.torch_3.3_iphoneos-arm64e.deb
+Size: 13236
+Section: Tweaks
+Description: 灵动岛手电筒 根据旧约的灵动岛手电筒进行修改
+Name: 手电筒上岛
+
+Package: com.hx.Flashlight
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.hx.Flashlight_1.0_iphoneos-arm64.deb
+Size: 3180
+Section: Tweaks
+Description: 长按电源开手电筒
+Name: 长按电源开手电筒
