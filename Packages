@@ -210,14 +210,14 @@ Description: 单指双击清除通知。
 Name: 单指双击清除
 
 Package: com.dynamic.torch
-Version: 3.3
+Version: 2.0
 Architecture: iphoneos-arm64e
 Maintainer: 半生年华
 Installed-Size: 198
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.1)
 Pre-Depends: rootless-compat (>= 0.9)
 Filename: debs/com.dynamic.torch_3.3_iphoneos-arm64e.deb
-Size: 13236
+Size: 18180
 Section: Tweaks
 Description: 灵动岛手电筒 根据旧约的灵动岛手电筒进行修改
 Name: 灵动岛手电筒
