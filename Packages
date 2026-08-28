@@ -211,7 +211,7 @@ Name: 单指双击清除
 
 Package: com.Dynamic.torch
 Version: 3.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: 半生年华
 Filename: debs/com.Dynamic.torch_3.3_iphoneos-arm64e.deb
 Size: 13236
