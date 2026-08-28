@@ -216,7 +216,7 @@ Maintainer: 半生年华
 Installed-Size: 198
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.1)
 Pre-Depends: rootless-compat (>= 0.9)
-Filename: debs/com.dynamic.torch_3.3_iphoneos-arm64e.deb
+Filename: debs/com.dynamic.torch_2.0_iphoneos-arm64e.deb
 Size: 18180
 Section: Tweaks
 Description: 灵动岛手电筒 根据旧约的灵动岛手电筒进行修改
