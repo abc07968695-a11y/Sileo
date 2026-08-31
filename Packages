@@ -218,3 +218,13 @@ Size: 3180
 Section: Tweaks
 Description: 长按电源开手电筒
 Name: 长按电源开手电筒
+
+Package: com.local.temperatureislandstandalone
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.local.temperatureislandstandalone_1.0_iphoneos-arm64.deb
+Size: 11736
+Section: Tweaks
+Description: 当手机电池温度到了40度会有一个温度计的标识上岛提醒 120秒下岛或者温度低于40下岛
+Name: 温度上岛
