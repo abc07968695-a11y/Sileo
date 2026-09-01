@@ -169,21 +169,21 @@ Description: 光标丝滑。qq172942805
 Name: SilkCursor
 
 Package: com.hx.wn
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.hx.wn_1.0.5_iphoneos-arm64.deb
-Size: 11442
+Filename: debs/com.hx.wn_1.0.6_iphoneos-arm64.deb
+Size: 11480
 Section: Tweaks
 Description: 把日历、备忘录、天气、提醒事项、时钟、短信、电话、文件、相册、Sileo能看到的横线去除。电话、文件、相册精简了页面。把全局分享的横线去除，如果有更好的想法，qq172942805
 Name: AllInOneNoLines
 
 Package: com.hx.120
-Version: 1.0-1+debug
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.hx.120_1.0-1+debug_iphoneos-arm64.deb
-Size: 4582
+Filename: debs/com.hx.120_2.0_iphoneos-arm64.deb
+Size: 4872
 Section: Tweaks
 Description: 满血120HZ，qq172942805
 Name: MotionX
@@ -228,3 +228,23 @@ Size: 11736
 Section: Tweaks
 Description: 当手机电池温度到了40度会有一个温度计的标识上岛提醒 120秒下岛或者温度低于40下岛
 Name: 温度上岛
+
+Package: com.local.tongz
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.local.tongz_1.1_iphoneos-arm64.deb
+Size: 22422
+Section: Tweaks
+Description: 通知上岛 短信验证码点按岛复制
+Name: 通知上岛
+
+Package: com.local.OrientationLockIsland
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.local.OrientationLockIsland_1.0_iphoneos-arm64.deb
+Size: 11550
+Section: Tweaks
+Description: 锁定方向上岛
+Name: 锁定方向上岛
