@@ -179,7 +179,7 @@ Description: 把日历、备忘录、天气、提醒事项、时钟、短信、�
 Name: AllInOneNoLines
 
 Package: com.hx.120
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
 Filename: debs/com.hx.120_2.0_iphoneos-arm64.deb
