@@ -250,11 +250,11 @@ Description: 锁定方向上岛
 Name: 锁定方向上岛
 
 Package: com.dynamicx.tweak
-Version: 1.1.1
+Version: 1.1.3
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.dynamicx.tweak_1.1.1_iphoneos-arm64.deb
-Size: 306114
+Filename: debs/com.dynamicx.tweak_1.1.3_iphoneos-arm64.deb
+Size: 105034
 Section: Tweaks
 Description: 万物皆上岛
 Name: DynamicX
