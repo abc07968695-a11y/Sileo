@@ -183,7 +183,7 @@ Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
 Filename: debs/com.hx.120_2.0_iphoneos-arm64.deb
-Size: 4872
+Size: 4970
 Section: Tweaks
 Description: 满血120HZ，qq172942805
 Name: MotionX
