@@ -259,3 +259,13 @@ Section: Tweaks
 Description: 万物皆上岛
 Name: DynamicX
 Icon: https://abc07968695-a11y.github.io/Sileo/DynamicX.png
+
+Package: com.clipTools.tewak
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.clipTools.tewak_1.2_iphoneos-arm64.deb
+Size: 11550
+Section: Tweaks
+Description: 简单的剪切板 QQ群 1106363887
+Name: ClipTools
