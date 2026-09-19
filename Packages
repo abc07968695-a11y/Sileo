@@ -265,7 +265,7 @@ Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
 Filename: debs/com.clipTools.tewak_1.2_iphoneos-arm64.deb
-Size: 11550
+Size: 58656
 Section: Tweaks
 Description: 简单的剪切板 QQ群 1106363887
 Name: ClipTools
