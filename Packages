@@ -59,11 +59,11 @@ Description: 完美去电话的横线 去除滚动条 包括同款插件去不�
 Name: 电话精简
 
 Package: com.ban.mydock
-Version: 1.0.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.ban.mydock_1.0.0_iphoneos-arm64.deb
-Size: 5002
+Filename: debs/com.ban.mydock_1.1_iphoneos-arm64.deb
+Size: 5068
 Section: Tweaks
 Description: 键盘增强 自用
 Name: MyDock
@@ -250,22 +250,22 @@ Description: 锁定方向上岛
 Name: 锁定方向上岛
 
 Package: com.dynamicx.tweak
-Version: 1.4.6
+Version: 1.4.8
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.dynamicx.tweak_1.4.6_iphoneos-arm64.deb
-Size: 181796
+Filename: debs/com.dynamicx.tweak_1.4.8_iphoneos-arm64.deb
+Size: 185030
 Section: Tweaks
 Description: 万物皆上岛
 Name: DynamicX
 Icon: https://abc07968695-a11y.github.io/Sileo/DynamicX.png
 
 Package: com.clipTools.tewak
-Version: 1.2
+Version: 1.6
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.clipTools.tewak_1.2_iphoneos-arm64.deb
-Size: 58656
+Filename: debs/com.clipTools.tewak_1.6_iphoneos-arm64.deb
+Size: 75292
 Section: Tweaks
 Description: 简单的剪切板 QQ群 1106363887
 Name: ClipTools
