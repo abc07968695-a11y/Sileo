@@ -274,8 +274,11 @@ Package: com.hong.teleprompter
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: 半生年华
+Installed-Size: 204
+Depends: mobilesubstrate
 Filename: debs/com.hong.teleprompter_1.0.0_iphoneos-arm64e.deb
 Size: 16484
 Section: Tweaks
-Description: 红果保持1080p
+Description: 红果自动保持1080p妈妈再也不用担心需要自己调整了 双指长按
 Name: 红果增强
+Author: 半生年华
