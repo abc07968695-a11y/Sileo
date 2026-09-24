@@ -269,3 +269,13 @@ Size: 75292
 Section: Tweaks
 Description: 简单的剪切板 QQ群 1106363887
 Name: ClipTools
+
+Package: com.hong.teleprompter
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 半生年华
+Filename: debs/com.hong.teleprompter_1.0.0_iphoneos-arm64e.deb
+Size: 16484
+Section: Tweaks
+Description: 红果保持1080p
+Name: 红果增强
