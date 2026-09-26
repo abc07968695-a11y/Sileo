@@ -279,3 +279,13 @@ Size: 16596
 Section: Tweaks
 Description: 红果自动保持1080p妈妈再也不用担心需要自己调整了 双指长按
 Name: 红果增强
+
+Package: com.colorfulclouds.minimalui
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Filename: debs/com.colorfulclouds.minimalui_1.0_iphoneos-arm64.deb
+Size: 49818
+Section: Tweaks
+Description: 彩云天气纯净首页ui 双指长按 如果有bug请进群用指定版本
+Name: 彩云UI设计
