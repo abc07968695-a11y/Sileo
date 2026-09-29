@@ -291,11 +291,11 @@ Description: 彩云天气纯净首页ui 双指长按 如果有bug或者用不了
 Name: 彩云UI设计
 
 Package: com.noads.tweka
-Version: 1.0.7
+Version: 1.0.9
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
-Filename: debs/com.noads.tweka_1.0.7_iphoneos-arm64.deb
-Size: 178986
+Filename: debs/com.noads.tweka_1.0.9_iphoneos-arm64.deb
+Size: 200086
 Section: Tweaks
 Description: 去除广告。交流群：1106363887
 Name: NoAds
