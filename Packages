@@ -254,7 +254,7 @@ Version: 1.4.8
 Architecture: iphoneos-arm64
 Maintainer: 半生年华
 Filename: debs/com.dynamicx.tweak_1.4.8_iphoneos-arm64.deb
-Size: 197692
+Size: 185030
 Section: Tweaks
 Description: 万物皆上岛
 Name: DynamicX
